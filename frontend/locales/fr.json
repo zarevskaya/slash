@@ -51,12 +51,12 @@
     "all": "Tout",
     "mine": "Le mien",
     "compact-mode": "Mode compact",
-    "order-by": "Commandé par",
+    "order-by": "Classé par",
     "direction": "Direction"
   },
   "user": {
     "self": "Utilisateur",
-    "nickname": "Surnom",
+    "nickname": "Pseudo",
     "email": "E-mail",
     "role": "Rôle",
     "profile": "Profil",
